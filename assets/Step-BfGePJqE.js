@@ -1,0 +1,1 @@
+import{s as e}from"./index-UE9EZ_sX.js";var t=e();function n({at:e=1,step:n,i:r=0,className:i=``,style:a,as:o=`div`,children:s,...c}){return(0,t.jsx)(o,{className:`step${n>=e?` is-on`:``}${i?` `+i:``}`,style:{"--i":r,...a},...c,children:s})}export{n as t};
